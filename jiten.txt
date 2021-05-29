@@ -1,5 +1,5 @@
 this is jiten
-this is update and delete some more content accidently
-:wq!
+this is update and delete some more content accidentl
+
 
 
